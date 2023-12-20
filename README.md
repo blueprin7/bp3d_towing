@@ -1,5 +1,5 @@
 Hi, 
-This is bp_toweing. 
+This is bp_towing. 
 --------------------------------------------------
 Installation for FiveM:
 1) Insert folder "bp_toweing" to resources folder
