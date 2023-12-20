@@ -2,7 +2,7 @@ Hi,
 This is bp_towing. 
 --------------------------------------------------
 Installation for FiveM:
-1) Insert folder "bp_toweing" to resources folder
+1) Insert folder "bp_towing" to resources folder
 2) Add to server.cfg
 3) Restart server
 
