@@ -19,8 +19,10 @@ You can edit the props for your own needs.
 If  you want to use the props for a paid project, provide a link to these props for free download.
 
 --------------------------------------------------
+                    Props used
+--------------------------------------------------
 Cfx forum:			 https://forum.cfx.re/u/bzzzi/summary
 Discord:			 https://discord.gg/PpAHBCMW97
 Wiki props:			 https://bzzz.wiki/
-Props used: 			 https://www.gta5-mods.com/misc/addon-props-colored-lights
+Props: 			 https://www.gta5-mods.com/misc/addon-props-colored-lights
 ------------------------------------------------
