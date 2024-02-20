@@ -10,10 +10,10 @@ Installation for FiveM:
 
 --------------------------------------------------
 My contact: 
-Cfx forum:			 https://forum.cfx.re/u/OnklRay/summary
+Cfx forum:			 https://forum.cfx.re/u/bp3d/summary
 Discord:			 https://discord.gg/haGsKx29Eq
 Github: 			 https://github.com/blueprin7
-Twitch: 			 https://www.twitch.tv/blueprint_3d
+Twitch: 			 https://www.twitch.tv/fenderray
 ------------------------------------------------
 You can use these props in your projects. 
 You can insert them into your resources.
