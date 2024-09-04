@@ -13,7 +13,7 @@ My contact:
 Cfx forum:			 https://forum.cfx.re/u/bp3d/summary
 Discord:			 https://discord.gg/haGsKx29Eq
 Github: 			 https://github.com/blueprin7
-Twitch: 			 https://www.twitch.tv/fenderray
+Twitch: 			 https://www.twitch.tv/fenderxray
 ------------------------------------------------
 You can use these props in your projects. 
 You can insert them into your resources.
